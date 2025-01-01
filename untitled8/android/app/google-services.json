@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383628660484",
+    "project_id": "neon-auth-3b653",
+    "storage_bucket": "neon-auth-3b653.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383628660484:android:505d22d811613fc578ca51",
+        "android_client_info": {
+          "package_name": "com.example.untitled8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpv_4LET5WKywtz9bKrtPtHyIjZxnj0sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
